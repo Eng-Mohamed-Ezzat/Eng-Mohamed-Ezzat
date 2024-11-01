@@ -51,7 +51,10 @@ Here are some of my key projects:
 - [GitHub](https://github.com/Eng-Mohamed-Ezzat)
 
 
-<a href="mailto:mohamed.ezzat@mail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Mailcom.png" alt="Mail"></a>
+<a href="mailto:mohamed.ezzat@mail.com">
+  <img src="https://img.shields.io/badge/-Mail.com-0072c6?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAA4CAYAAAAFOv/2AAAABmJLR0QA/wD/AP+gvaeTAAABM0lEQVRoge3bQUoDQRSF4W8DJSiKXClEXqAY8QghkIQkM5UpQALaC5CrS2qrUZ3up9xkt1Yvpd+/eDufdb+zmRyZ6N7R5A4QQQQABBBCVgApD0DBYACCCCAAAIIIIAAAggggAACCKYAEm8MhJAAIIIIAAAggggAACCCCAAAJBLQAWkPQMGAAAIIIIAAAggggAACCCCAAARlmABZ/8FMUAAAggggAACCCCAAAIIIIAAAggAAGakAkPQMFgAgkkmSY1ncj9EAAAAASUVORK5CYII=" alt="Mail.com">
+</a>
+
 <a href="https://www.linkedin.com/in/eng-mohamed-ezzat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Eng-Mohamed-Ezzat?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Ezzat" alt="Eng-Mohamed-Ezzat" /> </a>
 ---
