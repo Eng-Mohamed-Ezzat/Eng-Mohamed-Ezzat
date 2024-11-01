@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Ezzat 👋 <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
+# Hi, I'm Mohamed Ezzat 👋 👩🏾‍💻 <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="50">
 
 <img src="https://raw.githubusercontent.com/Eng-Mohamed-Ezzat/Eng-Mohamed-Ezzat/master/Banner.png" alt="banner that says Mohamed Ezzat - Software Engineer">
 
@@ -16,10 +16,36 @@ I am a Software Development Engineer with a strong focus on AI and digital skill
 ---
 
 ## 🛠️ Technical Skills
-- **Languages & Frameworks:** C#, ASP.NET Core, Python, SQL, JavaScript, PHP
-- **Tools & Platforms:** Azure, GitHub, JIRA, Trello, Asana
-- **Web Development:** HTML, CSS, MVC, OOP, API Development
-- **Development Principles:** SOLID, Unit Testing, CI/CD, Microservices, Distributed Systems
+
+### Languages & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Tools & Platforms
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+
+### Web Development
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00599C?style=for-the-badge&logo=c&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+
+### Development Principles
+![SOLID](https://img.shields.io/badge/SOLID-00599C?style=for-the-badge&logo=solid&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-FF4500?style=for-the-badge&logo=jest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4CAF50?style=for-the-badge&logo=github-actions&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-008080?style=for-the-badge&logo=microservices&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0000FF?style=for-the-badge&logo=distributed-system&logoColor=white)
+
 
 ---
 
@@ -40,21 +66,18 @@ Here are some of my key projects:
 - **UCCD Events Registration & Interviews System**: Python, Django, MySQL  
   Built a management system with QR code attendance for efficient event organization.
 
-## 📚 Articles & Publications
-- [LinkedIn Profile](https://linkedin.com/in/eng-mohamed-ezzat)
-- [GitHub Projects](https://github.com/Eng-Mohamed-Ezzat)
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/eng-mohamed-ezzat)
-- [GitHub](https://github.com/Eng-Mohamed-Ezzat)
-
-
-<a href="mailto:mohamed.ezzat@mail.com">
-  <img src="https://img.shields.io/badge/-Mail.com-0072c6?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAA4CAYAAAAFOv/2AAAABmJLR0QA/wD/AP+gvaeTAAABM0lEQVRoge3bQUoDQRSF4W8DJSiKXClEXqAY8QghkIQkM5UpQALaC5CrS2qrUZ3up9xkt1Yvpd+/eDufdb+zmRyZ6N7R5A4QQQQABBBCVgApD0DBYACCCCAAAIIIIAAAggggAACCKYAEm8MhJAAIIIIAAAggggAACCCCAAAJBLQAWkPQMGAAAIIIIAAAggggAACCCCAAARlmABZ/8FMUAAAggggAACCCCAAAIIIIAAAggAAGakAkPQMFgAgkkmSY1ncj9EAAAAASUVORK5CYII=" alt="Mail.com">
-</a>
-
+## 📚 Contact Me
+<a href="mailto:mohamed.ezzat@mail.com"><img src="https://img.shields.io/badge/Mohamed.Ezzat-Mail-0072c6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.ezzat@mail.com" alt="Mail"></a>
 <a href="https://www.linkedin.com/in/eng-mohamed-ezzat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Eng-Mohamed-Ezzat"><img src="https://img.shields.io/badge/GitHub-100000?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="wa.me/201062048212/"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://youtube.com/@Eng.Mohamed_Ezzat">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://facebook.com/M.Ezzat.Official"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://instagram.com/eng.mohamed.ezzat"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=facebook&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/engmoezzat">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://github.com/Eng-Mohamed-Ezzat?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Ezzat" alt="Eng-Mohamed-Ezzat" /> </a>
+
 ---
+
+
+
