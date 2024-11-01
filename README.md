@@ -50,4 +50,8 @@ Here are some of my key projects:
 - [LinkedIn](https://linkedin.com/in/eng-mohamed-ezzat)
 - [GitHub](https://github.com/Eng-Mohamed-Ezzat)
 
+
+<a href="mailto:mohamed.ezzat@mail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Mailcom.png" alt="Mail"></a>
+<a href="https://www.linkedin.com/in/eng-mohamed-ezzat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Eng-Mohamed-Ezzat?tab=repositories"> <img src="https://komarev.com/ghpvc/?username=Eng-Mohamed-Ezzat" alt="Eng-Mohamed-Ezzat" /> </a>
 ---
