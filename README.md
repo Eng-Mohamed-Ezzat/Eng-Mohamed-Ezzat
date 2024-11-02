@@ -70,8 +70,9 @@ Here are some of my key projects:
 <a href="mailto:mohamed.ezzat@mail.com"><img src="https://img.shields.io/badge/Mohamed.Ezzat-Mail-0072c6?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamed.ezzat@mail.com" alt="Mail"></a>
 <a href="https://www.linkedin.com/in/eng-mohamed-ezzat/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Eng-Mohamed-Ezzat"><img src="https://img.shields.io/badge/GitHub-100000?&style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="wa.me/201062048212/"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://wa.me/201062048212/"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=flat-square&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://youtube.com/@Eng.Mohamed_Ezzat">  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://eng-mohamed-ezzat.github.io/"><img src="https://img.shields.io/badge/Website-000000?&style=flat-square&logo=About.me&logoColor=white" alt="website"></a>
 <a href="https://facebook.com/M.Ezzat.Official"><img src="https://img.shields.io/badge/Facebook-1877F2?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://instagram.com/eng.mohamed.ezzat"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=flat-square&logo=facebook&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/engmoezzat">  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
